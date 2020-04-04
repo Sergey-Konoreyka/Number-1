@@ -5,8 +5,8 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-color: #c5ced7;
+  background-image: url("img/Nebo2.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -16,6 +16,17 @@ body {
   margin: 0 auto;
   padding: 0 16px;
   text-align: center;
+  color: white;
+}
+
+.tverk{
+  font-size: 20px;
+  line-height: 10px;
+  white-space: pre;
+}
+
+.Orlik {
+ color: orange;
 }
 
 .page-header {
@@ -76,12 +87,13 @@ body {
 }
 
 .subheading {
-  margin: 0 0 56px;
+  margin: 0 0 15px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 64px;
   line-height: 80px;
-  font-weight: 400;
+  font-weight: 500;
   text-align: center;
+
 }
 
 .user-image {

@@ -146,7 +146,7 @@ body {
 
 .skill-html {
   background-image: url("img/icon-html.svg");
-  background-size: 35px;
+  background-size: 2.5%;
 }
 
 .skill-css {
@@ -155,17 +155,17 @@ body {
 
 .skill-Archi{
 background-image: url("img/s1200.png");
-background-size: 35px;
+background-size: 2.5%;
 }
 
 .skill-Rest{
 background-image: url("img/321.svg");
-background-size: 35px;
+background-size: 2.5%;
 }
 
 .skill-VBD{
 background-image: url("img/VBD.png");
-background-size: 35px;
+background-size: 2.5%;
 }
 
 .level {

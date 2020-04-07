@@ -11,9 +11,6 @@ body {
   background-position: top center;
 }
 
-html{font-size:110%;} 
-@media(min-width:60em){html{font-size: 90%}}
-
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -22,10 +19,18 @@ html{font-size:110%;}
   color: white;
 }
 
+
 .tverk{
   font-size: 20px;
   line-height: 10px;
   white-space: pre;
+}
+
+.rekl{
+  color:white;
+  font-size: 200%;
+  line-height: 10px;
+  text-align: center;
 }
 
 .Orlik {
@@ -130,10 +135,26 @@ html{font-size:110%;}
 
 .skill-html {
   background-image: url("img/icon-html.svg");
+  background-size: 50px;
 }
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-Archi{
+background-image: url("img/s1200.png");
+background-size: 45px;
+}
+
+.skill-Rest{
+background-image: url("img/321.svg");
+background-size: 45px;
+}
+
+.skill-VBD{
+background-image: url("img/VBD.png");
+background-size: 45px;
 }
 
 .level {

@@ -134,12 +134,12 @@ body {
 }
 
 .skills-list {
-  margin: -10px 800px 300px;
+  margin: 0 25% 5%;
   padding: 0;
 }
 
 .skills-list dt {
-  padding-left: 50px;
+  padding-left: 5%;
   background-repeat: no-repeat;
   background-position: left; ;
 }
